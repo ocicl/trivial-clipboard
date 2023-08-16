@@ -2,9 +2,8 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/snmsts/trivial-clipboard.git   |
-| commit  | 19262e0  |
-| systems | trivial-clipboard |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/snmsts/trivial-clipboard.git |
+| commit  | 6ddf8d5                                             |
+| systems | trivial-clipboard                                   |
+|---------+-----------------------------------------------------|
