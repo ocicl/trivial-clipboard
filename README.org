@@ -4,6 +4,6 @@
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/snmsts/trivial-clipboard.git |
-| commit  | 6ddf8d5                                             |
+| commit  | aee67d6                                             |
 | systems | trivial-clipboard                                   |
 |---------+-----------------------------------------------------|
